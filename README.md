@@ -1,2 +1,2 @@
 # Create-VIP
-Standard template to create a new Virtual Server on ADC device (F5, A10, Citrix)
+Standard template to create a new virtual server on ADC device (F5, A10, Citrix)
