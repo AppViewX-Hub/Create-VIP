@@ -1,2 +1,2 @@
-# Create-VIP
-Standard template to create a new virtual server on ADC device (F5, A10, Citrix)
+# Create-Virtual-Server
+ Used to provision new virtual servers on a F5 & Citrix Netscaler load balancer
